@@ -1,0 +1,23 @@
+{
+
+    "firstname":"Ayman Sajid",
+    "nickname":"Nisho",
+    "hobby":"Coding",
+    "age":20,
+    "religion":"islam",
+    "brother":"True",
+    "Brother":[
+        {
+            "firstname" : "Samiur Rahman",
+            "lastname" : "sakib",
+            "age":15
+
+        },
+        {
+            "firstname" : "Hasibul Islam",
+            "lastname" : "Hasib",
+            "age":26
+
+        }
+    ]
+}
